@@ -1,0 +1,153 @@
+/* author: https://codepen.io/HighFlyer/pen/vYqvRWV
+Thea
+ */
+:root {
+    --cursor-size: 28px;
+    --bg: #FAF7EE;
+  }
+  
+  .page-wrap {
+    background: var(--bg);
+    min-height: 100vh;
+  }
+  
+  #cursor {
+    position: fixed;
+    top: calc(var(--cursor-size) * -0.5);
+    left:  calc(var(--cursor-size) * -0.5);
+    pointer-events: none;
+    mix-blend-mode: difference;  
+    filter: url(#goo);
+  }
+  
+  .cursor-circle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: var(--cursor-size);
+    height: var(--cursor-size);
+    border-radius: var(--cursor-size);
+    background: var(--bg);
+    transform-origin: center center;
+  }
+  
+  body {
+    overflow: hidden;
+  }
+  
+  h1 {
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+    font-size: 48px;
+    line-height: 1;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    user-select: none;
+  }
+  
+  .goo {
+    display: none;
+  }
+  body {
+    margin: 0;
+    background: #e7e5e5;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 50px;
+    align-items: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+        Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.card {
+    position: relative;
+    background: #6534c1;
+    color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 500px;
+    height: 380px;
+    cursor: pointer;
+}
+
+.card img {
+    position: absolute;
+    bottom: 0;
+    width: 500px;
+    height: 470px;
+    object-fit: cover;
+    transition: all 0.5s ease;
+}
+
+.card:hover img {
+    height: 540px;
+}
+
+.card:hover .info {
+    animation: forwards fadeUp 0.5s ease;
+}
+
+.info {
+    opacity: 0;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 460px;
+    background-color: aliceblue;
+    color: black;
+    bottom: 0;
+    padding: 20px;
+    transition: all 0.5s ease;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.role {
+    font-size: 15px;
+    color: rgb(110, 109, 109);
+}
+
+#cursor {
+    position: fixed;
+    top: calc(var(--cursor-size)*-0.5);
+    left: calc(var(--cursor-size)*-0.5);
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    cursor: none;
+    mix-blend-mode: difference;
+    filter: url(#goo);
+}
+
+.cursor-circle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: var(--cursor-size);
+    height: var(--cursor-size);
+    border-radius: var(--cursor-size);
+    background: rgba(255, 255, 255, 0.8);
+    animation: rotate 2s infinite linear;
+}
+
+@keyframes fadeUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
