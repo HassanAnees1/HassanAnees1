@@ -3,7 +3,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="600" alt="Animated Banner" />
 </p>
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="600" alt="Hacker Mindset" />
+</p>
 
+
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HassanAneesElzeny&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -79,8 +85,10 @@ Hi there! I'm **Hassan Anees Elzeny**, a passionate AI enthusiast and Computer &
 - **AI Career Essentials** - ALX *(May 2024)*
 - **Data Science & Analytics** - HP *(September 2024)*
 - **Virtual Assistant Training** - ALX *(Ongoing)*
-- **SKY Distribution Training Program** *(in partnership with Samsung)* *(October 2024)*
-- **AI & Data Science Track / Digital Egypt Pioneers Initiative (رواد مصر الرقمية)** *(Oct 2024 - May 2025)*
+- **SKY Distribution Training Program** *(October 2024)*
+- **AI & Data Science Track - Digital Egypt Pioneers Initiative (DEPI)** *(Oct 2024 - May 2025)*
+- **Huawei HICA - Cloud Computing & AI** (📅 January - February 2025)  
+  ![Huawei Certification](Huawei.png)
 
 ---
 
