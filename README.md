@@ -17,7 +17,7 @@ Hi there! I'm **Hassan Anees Elzeny**, a passionate AI enthusiast and Computer &
 - 🔭 I’m currently working on innovative AI projects.
 - 🌱 Continuously enhancing my skills in Machine Learning, Data Science, and Software Development.
 - 💡 I enjoy creating interactive projects and staying on top of tech trends.
-- 📫 Reach me at: [hassananees@example.com](mailto:hassananees@example.com)
+- 📫 Reach me at: [hassananees188@gmail.com](mailto:hassananees188@gmail.com)
 
 ---
 
