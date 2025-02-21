@@ -1,15 +1,8 @@
 <h1 align="center">🚀 Hassan Anees Elzeny | AI & Computer Science Enthusiast</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="600" alt="Animated Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A21B&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;AI+%7C+Data+Science+%7C+Cloud+Computing;Building+Innovative+AI+Projects+🚀" alt="Typing SVG" />
 </p>
----
-<p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="600" alt="Hacker Mindset" />
-</p>
-
-
----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HassanAneesElzeny&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -18,7 +11,7 @@
 
 ## 👋 About Me
 
-Hi there! I'm **Hassan Anees Elzeny**, a passionate AI enthusiast and Computer & Artificial Intelligence student at MTI University in Cairo (Expected Graduation: 2028). I thrive on solving complex problems and love exploring new technologies to make a meaningful impact through AI.
+Hi there! I'm **Hassan Anees Elzeny**, a passionate AI enthusiast and Computer & Artificial Intelligence student at MTI University in Cairo (Expected Graduation: 2025). I thrive on solving complex problems and love exploring new technologies to make a meaningful impact through AI.
 
 - 🔭 I’m currently working on innovative AI projects.
 - 🌱 Continuously enhancing my skills in Machine Learning, Data Science, and Software Development.
