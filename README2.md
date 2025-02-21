@@ -86,17 +86,12 @@ Hi there! I'm **Hassan Anees Elzeny**, a passionate AI enthusiast and Computer &
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HassanAneesElzeny&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassona18&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanAneesElzeny&theme=dracula" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hassona18&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAneesElzeny&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassona18&layout=compact&theme=radical)
+
 
 ---
 
