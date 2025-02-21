@@ -17,7 +17,7 @@ Hi there! I'm **Hassan Anees Elzeny**, a passionate AI enthusiast and Computer &
 - 🔭 Currently working on innovative AI projects.
 - 🌱 Continuously enhancing my skills in Machine Learning, Data Science, and Software Development.
 - 💡 Experienced with application development using Streamlit and Flask, and implementing deep learning architectures (GRU, ANN, CNN, RNN, and R-CNN).
-- 🎓 Since July 2024, I've been enrolled in an advanced course covering cutting-edge AI techniques.
+- 🎓 Since July 2024, I'm enrolled in an advanced course covering cutting-edge AI techniques.
 - 📫 Reach me at: [hassananees188@gmail.com](mailto:hassananees188@gmail.com)
 
 ---
@@ -107,11 +107,20 @@ Hi there! I'm **Hassan Anees Elzeny**, a passionate AI enthusiast and Computer &
 
 ## 📂 Featured Projects
 
-- **Netflix Trends Analysis:** Data visualization & analysis using NumPy, Pandas, Seaborn & Plotly.
-- **Heart Failure Prediction:** AI model built with TensorFlow, Keras, and PyTorch.
-- **Traffic Sign Detection:** Object detection project using Detectron2.
-- **Market Scraper:** Web scraping tool using Scrapy & BeautifulSoup.
-- **Employee Attrition Analysis:** Machine learning model analyzing factors affecting employee retention.
+- **DEPI:** A project related to the Digital Egypt Pioneers Initiative.  
+  [View Repository](https://github.com/HassanAnees1/DEPI)
+
+- **Xcore:** Showcasing innovative AI/ML solutions.  
+  [View Repository](https://github.com/HassanAnees1/Xcore)
+
+- **Data_Science_Project:** Demonstrating data science workflows and analysis.  
+  [View Repository](https://github.com/HassanAnees1/Data_Science_Project)
+
+- **SpaceDebrisDetection:** An object detection project using deep learning to detect space debris.  
+  [View Repository](https://github.com/HassanAnees1/SpaceDebrisDetection)
+
+- **Tree-Species-Classification:** An AI-powered classification project for tree species.  
+  [View Repository](https://github.com/HassanAnees1/Tree-Species-Classification)
 
 *More projects coming soon – stay tuned!*
 
@@ -135,7 +144,7 @@ Hi there! I'm **Hassan Anees Elzeny**, a passionate AI enthusiast and Computer &
 Contributing to open-source projects on GitHub gives me real-world experience in collaborative environments. I showcase my contributions with links to my Pull Requests, demonstrating hands-on expertise.
 
 ### Technical Blogging
-I write articles on AI, Data Science, ML, and WebSockets with Node.js on platforms like Medium and LinkedIn, which helps establish my expertise and share my knowledge with the community.
+I write articles on AI, Data Science, ML, and WebSockets with Node.js on platforms like Medium and LinkedIn to establish my expertise and share my knowledge with the community.
 
 ### Recognized Certifications
 In addition to my current certifications, I plan to pursue recognized credentials from IBM, Google, AWS, and Microsoft. Future goals include:
