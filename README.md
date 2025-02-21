@@ -1,4 +1,5 @@
-<h1 align="center">🚀 Hassan Anees Elzeny | AI & Computer Science Enthusiast</h1>
+<h1 align="center">🚀 Hassan Anees Elzeny</h1>
+<h3 align="center">AI & Computer Science Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A21B&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;AI+%7C+Data+Science+%7C+Cloud+Computing;Building+Innovative+AI+Projects+🚀" alt="Typing SVG" />
