@@ -12,11 +12,12 @@
 
 ## 👋 About Me
 
-Hi there! I'm **Hassan Anees Elzeny**, a passionate AI enthusiast and Computer & Artificial Intelligence student at MTI University in Cairo (Expected Graduation: 2025). I thrive on solving complex problems and love exploring new technologies to make a meaningful impact through AI.
+Hi there! I'm **Hassan Anees Elzeny**, a passionate AI enthusiast and Computer & Artificial Intelligence student at Helwan University in Cairo (Expected Graduation: 2025). I thrive on solving complex problems and love exploring new technologies to make a meaningful impact through AI.
 
-- 🔭 I’m currently working on innovative AI projects.
+- 🔭 Currently working on innovative AI projects.
 - 🌱 Continuously enhancing my skills in Machine Learning, Data Science, and Software Development.
-- 💡 I enjoy creating interactive projects and staying on top of tech trends.
+- 💡 I have experience developing applications using Streamlit and Flask, and implementing deep learning architectures such as GRU, ANN, CNN, RNN, and R-CNN.
+- 🎓 Since July 2024, I'm enrolled in an advanced course covering cutting-edge AI techniques.
 - 📫 Reach me at: [hassananees188@gmail.com](mailto:hassananees188@gmail.com)
 
 ---
@@ -24,11 +25,12 @@ Hi there! I'm **Hassan Anees Elzeny**, a passionate AI enthusiast and Computer &
 ## 💻 What I Do
 
 - **AI Engineering & Data Science:** Building AI models, training machine learning algorithms, and preparing clean, insightful datasets.
-- **Programming:** Proficient in Python and C++ for developing applications and automating tasks.
+- **Programming:** Developing applications and automating tasks using Python, C++, Java, and web technologies.
 - **Data Analysis & Visualization:** Crafting interactive visualizations with Pandas, Matplotlib, Seaborn, and Plotly.
-- **Virtual Assistance & Content Creation:** Managing YouTube and TikTok channels along with administrative support.
+- **Virtual Assistance & Content Creation:** Managing YouTube and TikTok channels along with providing administrative support.
 
 ---
+
 ## 🛠️ Tech Stack & Libraries
 
 ### Programming Languages & General Tools
@@ -45,8 +47,10 @@ Hi there! I'm **Hassan Anees Elzeny**, a passionate AI enthusiast and Computer &
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
-### Python Libraries
+
+### Python Libraries & AI Tools
 <p align="left">
+  <!-- Core Python Libraries -->
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -93,14 +97,12 @@ Hi there! I'm **Hassan Anees Elzeny**, a passionate AI enthusiast and Computer &
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Spyder-143?style=for-the-badge&logo=spyder&logoColor=white" alt="Spyder" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
-
-
 
 ---
 
@@ -123,38 +125,54 @@ Hi there! I'm **Hassan Anees Elzeny**, a passionate AI enthusiast and Computer &
 - **Virtual Assistant Training** - ALX *(Ongoing)*
 - **SKY Distribution Training Program** *(October 2024)*
 - **AI & Data Science Track - Digital Egypt Pioneers Initiative (DEPI)** *(Oct 2024 - May 2025)*
-- **Huawei HICA - Cloud Computing & AI** (📅 January - February 2025)  
+- **Huawei HICA - Cloud Computing & AI** *(January - February 2025)*  
   ![Huawei Certification](Huawei.png)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassona18&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HassanAnees1&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hassona18&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HassanAnees1&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassona18&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAnees1&layout=compact&theme=radical)
 
+---
+
+## 📚 Learning Resources & Sources
+
+- **AI & Deep Learning:**  
+  - Learned from [Fast.ai](https://www.fast.ai/) and [Coursera's Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).  
+  - Tools used: TensorFlow, PyTorch, Keras, GRU, CNN, RNN, R-CNN.
+
+- **Data Science & Machine Learning:**  
+  - Studied on [Kaggle](https://www.kaggle.com/), [DataCamp](https://www.datacamp.com/), and [Udacity](https://www.udacity.com/).  
+  - Tools used: NumPy, Pandas, scikit-learn, XGBoost, LightGBM.
+
+- **Web Scraping & Data Visualization:**  
+  - Learned from [Real Python](https://realpython.com/), [Scrapy Documentation](https://docs.scrapy.org/), and [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).  
+  - Tools used: Scrapy, BeautifulSoup, Plotly, Matplotlib, Seaborn.
+
+- **Web Development:**  
+  - Tutorials from [MDN Web Docs](https://developer.mozilla.org/), [freeCodeCamp](https://www.freecodecamp.org/).  
+  - Tools used: HTML5, CSS3, JavaScript, PHP.
 
 ---
 
 ## 🔗 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/hassananeeselzeny" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
-  </a>
-  <a href="https://github.com/HassanAneesElzeny" target="_blank">
+  <a href="https://github.com/HassonaElzeny" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.kaggle.com/your-kaggle" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="mailto:hassananees@example.com" target="_blank">
+  <a href="mailto:hassananees188@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   <a href="https://discord.gg/your-discord" target="_blank">
