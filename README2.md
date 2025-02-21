@@ -17,7 +17,7 @@ Hi there! I'm **Hassan Anees Elzeny**, a passionate AI enthusiast and Computer &
 - 🔭 Currently working on innovative AI projects.
 - 🌱 Continuously enhancing my skills in Machine Learning, Data Science, and Software Development.
 - 💡 Experienced with application development using Streamlit and Flask, and implementing deep learning architectures (GRU, ANN, CNN, RNN, and R-CNN).
-- 🎓 Since July 2024, I'm enrolled in an advanced course covering cutting-edge AI techniques.
+- 🎓 Since July 2024, I've been enrolled in an advanced course covering cutting-edge AI techniques.
 - 📫 Reach me at: [hassananees188@gmail.com](mailto:hassananees188@gmail.com)
 
 ---
@@ -132,31 +132,29 @@ Hi there! I'm **Hassan Anees Elzeny**, a passionate AI enthusiast and Computer &
 ## 🚀 Portfolio Enhancements
 
 ### Open Source Contributions
-Contributing to open-source projects on GitHub has given me real-world experience in collaborative environments. I actively participate in projects and submit Pull Requests that showcase my hands-on expertise.
+Contributing to open-source projects on GitHub gives me real-world experience in collaborative environments. I showcase my contributions with links to my Pull Requests, demonstrating hands-on expertise.
 
 ### Technical Blogging
-I write articles about AI, Data Science, ML, and WebSockets with Node.js on platforms such as Medium and LinkedIn, which helps establish my expertise and share my knowledge with the community.
+I write articles on AI, Data Science, ML, and WebSockets with Node.js on platforms like Medium and LinkedIn, which helps establish my expertise and share my knowledge with the community.
 
 ### Recognized Certifications
-In addition to my ongoing training, I plan to pursue certifications from renowned organizations such as IBM, Google, AWS, and Microsoft. Some future certifications I aim for include:
+In addition to my current certifications, I plan to pursue recognized credentials from IBM, Google, AWS, and Microsoft. Future goals include:
 - **TensorFlow Developer Certificate** (Udacity)
 - **AWS Certified Machine Learning** (AWS)
 - **Machine Learning with Python** (IBM - Coursera)
 
 ### Real-world Achievements
-I have deployed projects that demonstrate practical applications of AI and data analysis. For example, my WebSocket-based Bitcoin prediction project improved accuracy, reduced response time, and enhanced overall model efficiency.
+I have deployed projects that demonstrate practical applications of AI and data analysis. For example, my WebSocket-based Bitcoin prediction project improved accuracy, reduced response time, and enhanced model efficiency.
 
 ### Testimonials & Recommendations
-Feedback from teaching assistants, project teammates, and clients has been invaluable in refining my skills and delivering high-quality work.
+Feedback from teaching assistants, project teammates, and clients has been invaluable. I plan to include testimonials to build trust in my skills.
 
 ---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HassonaElzeny&show_icons=true&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HassonaElzeny&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HassonaElzeny&layout=compact&theme=radical)
 
 ---
