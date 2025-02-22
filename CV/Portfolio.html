@@ -114,9 +114,75 @@
     <img src="HASSAN.jpg" alt="Hassan Anees Elzeny" class="profile-img">
     <h2>About Me</h2>
     <p>
-      Hi, I'm Hassan Anees Elzeny – a Full Stack Data Scientist passionate about turning raw data into actionable insights and deploying robust AI solutions.
+      Hi, I'm Hassan Anees Elzeny – a Full Stack Data Scientist passionate about turning raw data into actionable insights and deploying robust AI solutions. Currently a Computer & Artificial Intelligence student at Helwan University (expected 2025). I specialize in end-to-end solutions: data collection, cleaning, analysis, model building, and application deployment.
     </p>
     <div class="linkedin-badge" id="linkedinBadgeContainer"></div>
+  </section>
+
+  <section class="section" id="projects">
+    <h2>Featured Projects</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>Netflix Trends Analysis</h3>
+        <p>Data visualization & analysis using NumPy, Pandas, Seaborn, and Plotly.</p>
+      </div>
+      <div class="card">
+        <h3>Heart Failure Prediction</h3>
+        <p>AI model developed with TensorFlow, Keras, and PyTorch.</p>
+      </div>
+      <div class="card">
+        <h3>Traffic Sign Detection</h3>
+        <p>Object detection project using Detectron2.</p>
+      </div>
+      <div class="card">
+        <h3>Market Scraper</h3>
+        <p>Web scraping tool built with Scrapy and BeautifulSoup.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="certifications">
+    <h2>Certifications & Courses</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>AI Career Essentials</h3>
+        <p>ALX – May 2024</p>
+      </div>
+      <div class="card">
+        <h3>Data Science & Analytics</h3>
+        <p>HP – September 2024</p>
+      </div>
+      <div class="card">
+        <h3>Virtual Assistant Training</h3>
+        <p>ALX – Ongoing</p>
+      </div>
+      <div class="card">
+        <h3>SKY Distribution Training</h3>
+        <p>October 2024</p>
+      </div>
+      <div class="card">
+        <h3>AI & Data Science Track</h3>
+        <p>Digital Egypt Pioneers Initiative (Oct 2024 - May 2025)</p>
+      </div>
+      <div class="card">
+        <h3>Huawei HICA</h3>
+        <p>Cloud Computing & AI (Jan - Feb 2025)</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="testimonials">
+    <h2>Testimonials</h2>
+    <p>
+      "Hassan is a driven and innovative data scientist with a keen eye for detail and problem-solving."
+    </p>
+  </section>
+
+  <section class="section" id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: <a href="mailto:hassananees188@gmail.com">hassananees188@gmail.com</a> / <a href="mailto:hasson20042004@gmail.com">hasson20042004@gmail.com</a></p>
+    <p>Phone: 01202687282, 01144438800</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/hassan-elzeny" target="_blank">linkedin.com/in/hassan-elzeny</a></p>
   </section>
 
   <footer>
@@ -137,37 +203,32 @@
     }
     
     toggleBtn.addEventListener('click', () => {
-    const currentTheme = body.getAttribute('data-theme');
-    const newTheme = currentTheme === 'light' ? 'dark' : 'light';
-    body.setAttribute('data-theme', newTheme);
-    localStorage.setItem('theme', newTheme);
-    toggleBtn.textContent = newTheme === 'light' ? 'Dark Mode' : 'Light Mode';
-    
-    updateLinkedInBadge(newTheme);
-    setTimeout(reloadLinkedInScript, 500); // إعادة تحميل السكريبت بعد التحديث
-});
+      const currentTheme = body.getAttribute('data-theme');
+      const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+      body.setAttribute('data-theme', newTheme);
+      localStorage.setItem('theme', newTheme);
+      toggleBtn.textContent = newTheme === 'light' ? 'Dark Mode' : 'Light Mode';
+      updateLinkedInBadge(newTheme);
+      setTimeout(reloadLinkedInScript, 500);
+    });
 
-    
     document.addEventListener('DOMContentLoaded', () => {
       const savedTheme = localStorage.getItem('theme') || 'light';
       body.setAttribute('data-theme', savedTheme);
       toggleBtn.textContent = savedTheme === 'light' ? 'Dark Mode' : 'Light Mode';
       updateLinkedInBadge(savedTheme);
     });
-function reloadLinkedInScript() {
-    let oldScript = document.querySelector('script[src="https://platform.linkedin.com/badges/js/profile.js"]');
-    if (oldScript) oldScript.remove();  // إزالة السكريبت القديم
 
-    let newScript = document.createElement('script');
-    newScript.src = "https://platform.linkedin.com/badges/js/profile.js";
-    newScript.async = true;
-    newScript.defer = true;
-    newScript.type = "text/javascript";
-    
-    document.body.appendChild(newScript); // إضافة السكريبت الجديد
-}
-
+    function reloadLinkedInScript() {
+      let oldScript = document.querySelector('script[src="https://platform.linkedin.com/badges/js/profile.js"]');
+      if (oldScript) oldScript.remove();
+      let newScript = document.createElement('script');
+      newScript.src = "https://platform.linkedin.com/badges/js/profile.js";
+      newScript.async = true;
+      newScript.defer = true;
+      newScript.type = "text/javascript";
+      document.body.appendChild(newScript);
+    }
   </script>
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 </body>
 </html>
